@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 
   
 <span>
-  <a href="https://github.com/limajeferson">
+  <a href="https://github.com/MarUguedes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limajeferson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limajeferson&layout=compact&langs_count=7&theme=dracula"/> 
   
 </span>
  
@@ -23,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="right" alt="painho" height="150" style="border-radius:400px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+  <img align="right" alt="painho" height="150" style="border-radius:400px;" src="https://i.imgur.com/787UUp5.png">
   
 
   
