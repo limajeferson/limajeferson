@@ -40,4 +40,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.instagram.com/jefedelima/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:jefersonjlso@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23F00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jeferson-de-lima-226973aa/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+  ![Snake animation](https://github.com/limajeferson/limajeferson/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
