@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.linkedin.com/in/jeferson-lima-226973aa/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%23007BB6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "https://wa.me/5571992788091"><img align="center" src="https://img.shields.io/badge/-WhatsApp-%2334AF23?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/limajeferson/limajeferson/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/limajeferson/limajeferson/blob/output/github-contribution-grid-snake.svg)-->
     
 </div>
