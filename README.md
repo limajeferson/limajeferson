@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @limajeferson
-- 👀 Meus interesses são tecnologias FullStack
+- 👀 Meus interesses são tecnologias Web & Mobile
 - 🌱 Estou aprendendo: Front-end, Flutter e Dart.
 - 📚 Skills: HTML | CSS | JavaScript
 - 💻 Ferramentas: VS Code | GitHub | Git
